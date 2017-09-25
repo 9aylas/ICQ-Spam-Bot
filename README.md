@@ -2,7 +2,7 @@
 Au3 script [ ICQ Web Bot Spammer ]
 
 - First : Edit the script
-+ Use this to get your mouse position
+Use this to get your mouse position
 " Sleep(4000)
 " $pos = MouseGetPos()
 " MsgBox(0, "X - Y", $pos[0] & " - " & $pos[1] )
